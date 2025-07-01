@@ -10,13 +10,13 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "Facebook",
       iconClass: "fab fa-facebook-f",
-      url: "https://facebook.com/tuusuario",
+      url: "https://www.facebook.com/profile.php?id=61577719362437",
       className: "facebook",
     },
     {
       name: "Twitter",
       iconClass: "fab fa-twitter",
-      url: "https://twitter.com/tuusuario",
+      url: "https://x.com/CasapaicoH80096",
       className: "twitter",
     },
     {
@@ -28,13 +28,13 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "Instagram",
       iconClass: "fab fa-instagram",
-      url: "https://instagram.com/tuusuario",
+      url: "https://www.instagram.com/rcasapaico2001/",
       className: "instagram",
     },
     {
       name: "Email",
       iconClass: "fas fa-envelope",
-      url: "mailto:tu@email.com",
+      url: "mailto:rolando.casapaico@tecsup.edu.pe",
       className: "email",
     },
   ];
